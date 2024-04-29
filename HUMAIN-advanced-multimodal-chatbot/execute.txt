@@ -1,4 +1,0 @@
-./run_chatbot.sh
-
-ctrl + b -> d
-tmux kill-session -t chatbot
